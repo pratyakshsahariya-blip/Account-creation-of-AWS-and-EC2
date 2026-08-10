@@ -1,1 +1,1 @@
-# Account-creation-of-AWS-and-EC2
+# Account-creation-of-AWS
