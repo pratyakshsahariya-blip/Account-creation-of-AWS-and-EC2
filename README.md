@@ -5,10 +5,10 @@ Step 1 : Install & Start Apache Web Server
   1. Update Package Lists :
        sudo dnf update -y
      
-  2. Install Apache (httpd) :
+  3. Install Apache (httpd) :
        sudo dnf install httpd -y
      
-  3. Start The We Server & enable it to launch automatically on boot :
+  4. Start The We Server & enable it to launch automatically on boot :
 
        sudo systemctl start httpd
        sudo systemctl enable httpd
