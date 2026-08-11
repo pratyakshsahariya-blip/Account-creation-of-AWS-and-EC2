@@ -3,21 +3,21 @@
 Step 1 : Install & Start Apache Web Server
 
   1. Update Package Lists :
-     sudo dnf update -y
+       sudo dnf update -y
      
   2. Install Apache (httpd) :
-     sudo dnf install httpd -y
+       sudo dnf install httpd -y
      
   3. Start The We Server & enable it to launch automatically on boot :
 
-     sudo systemctl start httpd
-     sudo systemctl enable httpd
+       sudo systemctl start httpd
+       sudo systemctl enable httpd
 
 Step 2 : Creating Website Page
 
-    sudo nano /var/www/html/index.html
+      sudo nano /var/www/html/index.html
 
-    "<h1>Hello, Welcome to my website on AWS EC2!</h1>"
+      "<h1>Hello, Welcome to my website on AWS EC2!</h1>"
 
 Step 3 : Opening HTTP Traffic in AWS Console 
 
