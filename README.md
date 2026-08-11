@@ -53,10 +53,10 @@ Step 4 : Viewing Our Website :
   
     http://54.196.62.205
 
-    <img width="1440" height="900" alt="Screenshot 2026-08-10 195739" src="https://github.com/user-attachments/assets/aee02e4a-2863-45a4-bd90-97f424ba2a09" />
+<img width="1440" height="900" alt="Screenshot 2026-08-10 195739" src="https://github.com/user-attachments/assets/aee02e4a-2863-45a4-bd90-97f424ba2a09" />
 
     
     http://13.217.143.64
     
-    <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/7f252cd2-15d0-415d-9518-a7864c971ca5" />
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/7f252cd2-15d0-415d-9518-a7864c971ca5" />
 
