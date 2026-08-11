@@ -15,7 +15,9 @@ Step 1 : Install & Start Apache Web Server
 
 Step 2 : Creating Website Page
 
-  sudo nano /var/www/html/index.html
+    sudo nano /var/www/html/index.html
+
+    "<h1>Hello, Welcome to my website on AWS EC2!</h1>"
 
 Step 3 : Opening HTTP Traffic in AWS Console 
 
