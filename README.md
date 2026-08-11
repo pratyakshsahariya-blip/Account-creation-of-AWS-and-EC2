@@ -13,6 +13,7 @@ Step 1 : Install & Start Apache Web Server
        sudo systemctl start httpd
      
        sudo systemctl enable httpd
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/3beda8d5-43f4-4d36-9543-9efe037f9666" />
 
 Step 2 : Creating Website Page
 
